@@ -11,7 +11,12 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.1"
+    "next": "14.0.1",
+    "@orbit/coordinator": "0.17.0",
+    "@orbit/jsonapi": "0.17.1",
+    "@orbit/memory": "0.17.2",
+    "@orbit/records": "0.17.0",
+    "@orbit/serializers": "0.17.0"
   },
   "devDependencies": {
     "typescript": "^5",
